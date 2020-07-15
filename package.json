@@ -17,5 +17,14 @@
   "devDependencies": {
     "electron": "^9.1.0",
     "electron-packager": "^15.0.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stylix58/brocrate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stylix58/brocrate/issues"
+  },
+  "homepage": "https://github.com/Stylix58/brocrate#readme"
 }
