@@ -1,0 +1,21 @@
+{
+  "name": "brocrate",
+  "version": "1.0.0",
+  "description": "A unofficial desktop version of Github",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "electron ."
+  },
+  "keywords": [
+    "github",
+    "electron",
+    "desktop"
+  ],
+  "author": "Stylix58",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^9.1.0",
+    "electron-packager": "^15.0.0"
+  }
+}
