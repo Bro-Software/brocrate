@@ -3,9 +3,8 @@ A unofficial desktop version of Github
 
 ## Clone and test directly from the source
 1. Clone the repository
-2. Run `npm init`
-3. Run `npm install --save-dev electron`
-4. Run `npm start`
+2. Run `npm install --save-dev electron`
+3. Run `npm start`
 
 ## Build
 For build the app, you need to install `electron-packager`:
